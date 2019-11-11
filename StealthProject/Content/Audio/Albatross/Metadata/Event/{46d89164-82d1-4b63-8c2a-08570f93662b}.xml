@@ -68,8 +68,7 @@
 			<destination>{f709faac-a1eb-4b7c-9532-df88e271525c}</destination>
 		</relationship>
 		<relationship name="modules">
-			<destination>{aaeeaf09-a318-44a4-a421-c5a1c1c54813}</destination>
-			<destination>{e99fbba7-6a60-4203-b41a-f08cce726d4c}</destination>
+			<destination>{e25d335d-a1fc-44a9-99bf-a7df3d5836fa}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{d72d74e6-3f2a-47a2-9474-0c4fb2110fd4}</destination>
@@ -85,9 +84,8 @@
 	</object>
 	<object class="Timeline" id="{01418035-15a4-49cb-9232-e16f8db0b44c}">
 		<relationship name="modules">
-			<destination>{aaeeaf09-a318-44a4-a421-c5a1c1c54813}</destination>
-			<destination>{e99fbba7-6a60-4203-b41a-f08cce726d4c}</destination>
 			<destination>{285fddd9-c56a-4e11-b9ce-29516de404af}</destination>
+			<destination>{e25d335d-a1fc-44a9-99bf-a7df3d5836fa}</destination>
 		</relationship>
 		<relationship name="markers">
 			<destination>{2ed97818-e18c-46c7-b64c-9a2c48c76728}</destination>
@@ -120,26 +118,15 @@
 			<destination>{bc183603-4bbd-4a4a-910c-ce75db178ef2}</destination>
 		</relationship>
 	</object>
-	<object class="SingleSound" id="{aaeeaf09-a318-44a4-a421-c5a1c1c54813}">
+	<object class="SingleSound" id="{e25d335d-a1fc-44a9-99bf-a7df3d5836fa}">
 		<property name="start">
-			<value>2</value>
+			<value>2.8316388137584347</value>
 		</property>
 		<property name="length">
 			<value>39.929531249999997</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{3612f4f2-4745-4329-9b13-f0a16d98657f}</destination>
-		</relationship>
-	</object>
-	<object class="SingleSound" id="{e99fbba7-6a60-4203-b41a-f08cce726d4c}">
-		<property name="start">
-			<value>2</value>
-		</property>
-		<property name="length">
-			<value>39.929531249999997</value>
-		</property>
-		<relationship name="audioFile">
-			<destination>{4b765cd4-bfe6-424c-b825-630443bb7295}</destination>
+			<destination>{e4d541ac-77b7-42ca-8f39-e7aa7493255a}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{d72d74e6-3f2a-47a2-9474-0c4fb2110fd4}">
@@ -169,7 +156,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{770ec1f8-c37f-4fd2-b631-863dfb77eaa0}">
 		<property name="volume">
-			<value>-17</value>
+			<value>-22</value>
 		</property>
 		<property name="name">
 			<value>Audio 2</value>
@@ -186,12 +173,11 @@
 	</object>
 	<object class="LoopRegion" id="{2ed97818-e18c-46c7-b64c-9a2c48c76728}">
 		<property name="position">
-			<value>2.5</value>
+			<value>2.8316388137584347</value>
 		</property>
 		<property name="length">
-			<value>39</value>
+			<value>39.929531249999997</value>
 		</property>
-		<property name="name" />
 		<relationship name="timeline">
 			<destination>{01418035-15a4-49cb-9232-e16f8db0b44c}</destination>
 		</relationship>
