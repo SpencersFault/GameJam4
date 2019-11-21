@@ -1,0 +1,1354 @@
+﻿Log file open, 11/18/19 15:08:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: StealthProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.099520
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin FMODStudio
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU:       Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz, GPU: AMD FirePro D700 (FireGL V)
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.18-20.08.47:196][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.18-20.08.47:196][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.18-20.08.47:196][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Config/Windows/Engine.ini]
+[2019.11.18-20.08.47:196][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.18-20.08.47:196][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Config/Windows/Engine.ini]
+[2019.11.18-20.08.47:196][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Config/Windows/Engine.ini]
+[2019.11.18-20.08.47:196][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.18-20.08.47:196][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.18-20.08.47:196][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Config/Windows/Engine.ini]
+[2019.11.18-20.08.47:197][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.18-20.08.47:197][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Config/Windows/Engine.ini]
+[2019.11.18-20.08.47:197][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Config/Windows/Engine.ini]
+[2019.11.18-20.08.47:211][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-20.08.47:211][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.18-20.08.47:211][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.18-20.08.47:211][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-20.08.47:211][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.18-20.08.47:212][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.18-20.08.47:213][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.18-20.08.47:213][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.18-20.08.47:213][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.18-20.08.47:213][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.18-20.08.47:213][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.18-20.08.47:213][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-20.08.47:213][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.18-20.08.47:213][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.18-20.08.47:213][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.18-20.08.47:213][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.18-20.08.47:213][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.18-20.08.47:213][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.18-20.08.47:213][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.18-20.08.47:213][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.18-20.08.47:213][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.18-20.08.47:213][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.18-20.08.47:213][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.18-20.08.47:213][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.18-20.08.47:213][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.18-20.08.47:213][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-20.08.47:213][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.18-20.08.47:213][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.18-20.08.47:213][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.18-20.08.47:213][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.18-20.08.47:216][  0]LogHAL: Display: Platform has ~ 32 GB [34329391104 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.18-20.08.47:216][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.18-20.08.47:216][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.18-20.08.47:216][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.18-20.08.47:217][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.18-20.08.47:218][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.18-20.08.47:218][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.18-20.08.47:218][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Config/Windows/Engine.ini]
+[2019.11.18-20.08.47:218][  0]LogInit: Computer: WFD211-07W
+[2019.11.18-20.08.47:218][  0]LogInit: User: Chris
+[2019.11.18-20.08.47:218][  0]LogInit: CPU Page size=4096, Cores=12
+[2019.11.18-20.08.47:218][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.18-20.08.47:218][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2019.11.18-20.08.47:218][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.18-20.08.47:218][  0]LogMemory: Process Physical Memory: 108.18 MB used, 108.19 MB peak
+[2019.11.18-20.08.47:218][  0]LogMemory: Process Virtual Memory: 107.01 MB used, 107.01 MB peak
+[2019.11.18-20.08.47:218][  0]LogMemory: Physical Memory: 9450.18 MB used,  23288.88 MB free, 32739.06 MB total
+[2019.11.18-20.08.47:218][  0]LogMemory: Virtual Memory: 4776.39 MB used,  134212952.00 MB free, 134217728.00 MB total
+[2019.11.18-20.08.47:221][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.18-20.08.47:249][  0]LogInit: Using OS detected language (en-US).
+[2019.11.18-20.08.47:249][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.18-20.08.47:250][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.18-20.08.47:427][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.18-20.08.47:481][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.18-20.08.47:482][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.18-20.08.47:738][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.11.18-20.08.47:738][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.18-20.08.47:842][  0]LogD3D11RHI:    0. 'AMD FirePro D700 (FireGL V)' (Feature Level 11_0)
+[2019.11.18-20.08.47:842][  0]LogD3D11RHI:       6123/0/16369 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2019.11.18-20.08.47:844][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.18-20.08.47:844][  0]LogD3D11RHI:       0/0/16369 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.18-20.08.47:844][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.18-20.08.47:851][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.18-20.08.47:851][  0]LogD3D11RHI:     GPU DeviceId: 0x6798 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.18-20.08.47:851][  0]LogWindows: EnumDisplayDevices:
+[2019.11.18-20.08.47:851][  0]LogWindows:    0. 'AMD FirePro D700 (FireGL V)' (P:1 D:1)
+[2019.11.18-20.08.47:851][  0]LogWindows:    1. 'AMD FirePro D700 (FireGL V)' (P:0 D:1)
+[2019.11.18-20.08.47:852][  0]LogWindows:    2. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2019.11.18-20.08.47:852][  0]LogWindows:    3. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2019.11.18-20.08.47:852][  0]LogWindows:    4. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2019.11.18-20.08.47:853][  0]LogWindows:    5. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2019.11.18-20.08.47:853][  0]LogWindows:    6. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2019.11.18-20.08.47:853][  0]LogWindows:    7. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2019.11.18-20.08.47:854][  0]LogWindows:    8. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2019.11.18-20.08.47:854][  0]LogWindows:    9. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2019.11.18-20.08.47:854][  0]LogWindows:    10. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2019.11.18-20.08.47:855][  0]LogWindows:    11. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2019.11.18-20.08.47:855][  0]LogWindows: DebugString: FoundDriverCount:12 
+[2019.11.18-20.08.47:855][  0]LogD3D11RHI:     Adapter Name: AMD FirePro D700 (FireGL V)
+[2019.11.18-20.08.47:855][  0]LogD3D11RHI:   Driver Version: Adrenalin 18.40.20.10 (internal:25.20.14020.10001, unified:25.20.14020.10001)
+[2019.11.18-20.08.47:855][  0]LogD3D11RHI:      Driver Date: 3-15-2019
+[2019.11.18-20.08.47:855][  0]LogRHI: Texture pool is 4286 MB (70% of 6123 MB)
+[2019.11.18-20.08.47:968][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.18-20.08.47:981][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2019.11.18-20.08.48:350][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.18-20.08.48:361][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.18-20.08.48:371][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.18-20.08.48:381][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.18-20.08.48:391][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.18-20.08.48:401][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.18-20.08.48:411][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.18-20.08.48:421][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.18-20.08.48:426][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.18-20.08.48:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.18-20.08.48:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.18-20.08.48:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.18-20.08.48:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.18-20.08.48:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.18-20.08.48:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.18-20.08.48:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.18-20.08.48:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.18-20.08.48:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.18-20.08.48:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.18-20.08.48:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.18-20.08.48:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.18-20.08.48:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.18-20.08.48:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.18-20.08.48:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.18-20.08.48:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.18-20.08.48:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.18-20.08.48:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.18-20.08.48:467][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.18-20.08.48:487][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.18-20.08.48:487][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.18-20.08.48:503][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.18-20.08.48:503][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.18-20.08.48:511][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.18-20.08.48:519][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.18-20.08.48:528][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.18-20.08.48:537][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.18-20.08.48:564][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.18-20.08.48:564][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.18-20.08.48:564][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.18-20.08.48:575][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.18-20.08.48:632][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Intermediate/Shaders/WorkingDirectory/11216/).
+[2019.11.18-20.08.48:632][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Chris/AppData/Local/Temp/UnrealShaderWorkingDir/E333C65A4E204111933380B5A98E8B5D/'.
+[2019.11.18-20.08.48:635][  0]LogXGEController: Cleaning working directory: C:/Users/Chris/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.18-20.08.48:635][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.18-20.08.48:635][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.18-20.08.48:635][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.18-20.08.49:418][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.18-20.08.49:477][  0]LogDerivedDataCache: Loaded boot cache 0.06s 76MB C:/Users/Chris/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.18-20.08.49:477][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Chris/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.18-20.08.49:477][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.18-20.08.49:477][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.18-20.08.49:477][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.18-20.08.49:477][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.18-20.08.49:490][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.18-20.08.49:490][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.18-20.08.49:490][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.18-20.08.49:491][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.18-20.08.49:491][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.18-20.08.49:491][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.18-20.08.49:519][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.18-20.08.49:523][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.18-20.08.49:523][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.18-20.08.49:591][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2019.11.18-20.08.49:995][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.18-20.08.50:189][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.18-20.08.50:189][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.18-20.08.50:189][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.18-20.08.50:189][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.18-20.08.50:189][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.18-20.08.50:200][  0]LogNetVersion: StealthProject 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 350830311)
+[2019.11.18-20.08.50:749][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 1 prioritized culture(s) in 0.053877 seconds
+[2019.11.18-20.08.50:756][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.11.18-20.08.50:756][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.11.18-20.08.50:756][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.18-20.08.51:793][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.18-20.08.51:795][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.18-20.08.51:827][  0]LogFMOD: FFMODStudioModule startup
+[2019.11.18-20.08.51:827][  0]LogFMOD:  Lib path = '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Plugins/FMODStudio/Binaries'
+[2019.11.18-20.08.51:827][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Plugins/FMODStudio/Binaries/Win64/fmodL.dll
+[2019.11.18-20.08.51:828][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Plugins/FMODStudio/Binaries/Win64/fmodstudioL.dll
+[2019.11.18-20.08.51:873][  0]LogFMOD: Loading strings bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Master.strings.bank
+[2019.11.18-20.08.51:875][  0]LogFMOD: Constructing asset: /Game/FMOD/Banks/Master
+[2019.11.18-20.08.51:875][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/FaunaAmbiance
+[2019.11.18-20.08.51:875][  0]LogFMOD: Skipping asset: bus:/
+[2019.11.18-20.08.51:875][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/Monster
+[2019.11.18-20.08.51:875][  0]LogFMOD: Constructing asset: /Game/FMOD/Banks/Footsteps
+[2019.11.18-20.08.51:875][  0]LogFMOD: Skipping asset: bank:/Master.strings
+[2019.11.18-20.08.51:875][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/Twigs
+[2019.11.18-20.08.51:875][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/Footsteps
+[2019.11.18-20.08.51:875][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/Death
+[2019.11.18-20.08.51:875][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/OtherAmbience
+[2019.11.18-20.08.51:875][  0]LogFMOD: Constructing asset: /Game/FMOD/Banks/Monster
+[2019.11.18-20.08.51:875][  0]LogFMOD: Constructing asset: /Game/FMOD/Banks/Ambiance
+[2019.11.18-20.08.51:875][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Reverb
+[2019.11.18-20.08.51:875][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/Monster_Walking
+[2019.11.18-20.08.51:885][  0]LogFMOD: Default sample rate = 48000
+[2019.11.18-20.08.51:885][  0]LogFMOD: System sample rate = 48000
+[2019.11.18-20.08.51:885][  0]LogFMOD: Matching system sample rate 48000
+[2019.11.18-20.08.51:932][  0]LogFMOD: Default sample rate = 48000
+[2019.11.18-20.08.51:932][  0]LogFMOD: System sample rate = 48000
+[2019.11.18-20.08.51:932][  0]LogFMOD: Matching system sample rate 48000
+[2019.11.18-20.08.51:972][  0]SourceControl: Source control is disabled
+[2019.11.18-20.08.51:972][  0]SourceControl: Source control is disabled
+[2019.11.18-20.08.51:974][  0]SourceControl: Source control is disabled
+[2019.11.18-20.08.51:975][  0]SourceControl: Source control is disabled
+[2019.11.18-20.08.52:062][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.18-20.08.52:233][  0]LogOcInput: OculusInput pre-init called
+[2019.11.18-20.08.52:925][  0]LogFMOD: FFMODStudioEditorModule startup
+[2019.11.18-20.08.53:015][  0]LogEngine: Initializing Engine...
+[2019.11.18-20.08.53:048][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.11.18-20.08.53:050][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.18-20.08.53:328][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.18-20.08.53:348][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.18-20.08.53:444][  0]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.18-20.08.53:462][  0]LogInit: FAudioDevice initialized.
+[2019.11.18-20.08.53:462][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.18-20.08.53:523][  0]LogDerivedDataCache: Saved boot cache 0.06s 76MB C:/Users/Chris/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.18-20.08.53:531][  0]LogInit: Texture streaming: Enabled
+[2019.11.18-20.08.53:551][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.18-20.08.53:551][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.11.18-20.08.53:553][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.11.18-20.08.53:628][  0]LogInit: Transaction tracking system initialized
+[2019.11.18-20.08.53:664][  0]BlueprintLog: New page: Editor Load
+[2019.11.18-20.08.53:751][  0]LocalizationService: Localization service is disabled
+[2019.11.18-20.08.54:020][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/' took 0.01s
+[2019.11.18-20.08.54:020][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.18-20.08.54:020][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.18-20.08.54:223][  0]SourceControl: Source control is disabled
+[2019.11.18-20.08.54:223][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.18-20.08.54:223][  0]LightingResults: New page: Lighting Build
+[2019.11.18-20.08.54:227][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-20.08.54:227][  0]MapCheck: New page: Map Check
+[2019.11.18-20.08.54:227][  0]LightingResults: New page: Lighting Build
+[2019.11.18-20.08.54:274][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.11.18-20.08.54:382][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.11.18-20.08.54:389][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.18-20.08.54:435][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.11.18-20.08.54:435][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.18-20.08.54:435][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2019.11.18-20.08.54:435][  0]LogFileHelpers: Loading map 'Template_Default' took 0.214
+[2019.11.18-20.08.54:574][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-20.08.54:583][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-20.08.54:592][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-20.08.54:601][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-20.08.54:609][  0]LogCollectionManager: Loaded 0 collections in 0.002297 seconds
+[2019.11.18-20.08.54:616][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Collections/' took 0.00s
+[2019.11.18-20.08.54:616][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/Developers/Chris/Collections/' took 0.00s
+[2019.11.18-20.08.54:616][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/Collections/' took 0.00s
+[2019.11.18-20.08.54:616][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.11.18-20.08.54:626][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2879 classes and 687 folders.
+[2019.11.18-20.08.54:634][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.18-20.08.54:684][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.18-20.08.54:690][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.11.18-20.08.54:762][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.18-20.08.54:764][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.18-20.08.54:771][  0]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.18-20.08.54:847][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2019.11.18-20.08.54:972][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.18-20.08.54:972][  0]LogLoad: (Engine Initialization) Total time: 9.64 seconds
+[2019.11.18-20.08.54:972][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.18-20.08.55:029][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.18-20.08.55:074][  1]LogFMOD: File has changed: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Master.strings.bank
+[2019.11.18-20.08.55:172][  1]LogFMOD: Loading strings bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Master.strings.bank
+[2019.11.18-20.08.55:174][  1]LogFMOD: Skipping asset: bus:/
+[2019.11.18-20.08.55:174][  1]LogFMOD: Skipping asset: bank:/Master.strings
+[2019.11.18-20.08.55:181][  1]LogFMOD: Default sample rate = 48000
+[2019.11.18-20.08.55:181][  1]LogFMOD: System sample rate = 48000
+[2019.11.18-20.08.55:181][  1]LogFMOD: Matching system sample rate 48000
+[2019.11.18-20.08.55:199][  1]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Ambiance.bank
+[2019.11.18-20.08.55:199][  1]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Footsteps.bank
+[2019.11.18-20.08.55:199][  1]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Monster.bank
+[2019.11.18-20.08.55:348][  1]LogFMOD: Default sample rate = 48000
+[2019.11.18-20.08.55:348][  1]LogFMOD: System sample rate = 48000
+[2019.11.18-20.08.55:348][  1]LogFMOD: Matching system sample rate 48000
+[2019.11.18-20.08.55:359][  1]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Ambiance.bank
+[2019.11.18-20.08.55:359][  1]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Footsteps.bank
+[2019.11.18-20.08.55:359][  1]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Monster.bank
+[2019.11.18-20.08.55:408][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/' took 0.42s
+[2019.11.18-20.08.55:434][  1]LogAssetRegistry: Asset discovery search completed in 5.8443 seconds
+[2019.11.18-20.08.55:437][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.11.18-20.08.55:437][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2019.11.18-20.14.55:012][420]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={2A027705-4EAB-27EE-68C7-339D2358F1DA}
+[2019.11.18-20.18.08:419][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-20.18.08:828][890]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] Node  Blend Poses by bool  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.18-20.18.09:154][890]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.18-20.18.09:164][890]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/GrassActor.GrassActor
+[2019.11.18-20.18.09:497][890]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.11.18-20.18.10:831][890]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.18-20.18.10:929][891]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.18-20.18.12:743][ 43]LogSlate: Window 'GrassActor' being destroyed
+[2019.11.18-20.19.57:980][549]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2019.11.18-20.19.57:980][549]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.057
+[2019.11.18-20.19.57:982][549]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/GrassActor] ([1] browsable assets)...
+[2019.11.18-20.19.58:011][549]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/GrassActor.GrassActor]
+[2019.11.18-20.19.58:011][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/GrassActor]
+[2019.11.18-20.19.58:062][549]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/GrassActor_Auto1AA5BC2834DD5A0213BFCB18CA6F4703E.tmp' to '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Autosaves/Game/BluePrints/GrassActor_Auto1.uasset'
+[2019.11.18-20.19.58:063][549]LogFileHelpers: Auto-saving content packages took 0.081
+[2019.11.18-20.32.34:704][106]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/Twig.Twig
+[2019.11.18-20.33.09:717][692]LogAssetEditorManager: Opening Asset editor for FMODEvent /Game/FMOD/Events/Twigs.Twigs
+[2019.11.18-20.33.31:305][264]BlueprintLog: New page: Compile Twig
+[2019.11.18-20.33.31:571][264]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2019.11.18-20.33.33:115][418]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-20.33.33:146][418]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.11.18-20.33.33:175][418]LogFMOD: Creating runtime Studio System
+[2019.11.18-20.33.33:182][418]LogFMOD: Default sample rate = 48000
+[2019.11.18-20.33.33:182][418]LogFMOD: System sample rate = 48000
+[2019.11.18-20.33.33:182][418]LogFMOD: Matching system sample rate 48000
+[2019.11.18-20.33.33:200][418]LogFMOD: Loading Banks
+[2019.11.18-20.33.33:200][418]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Ambiance.bank
+[2019.11.18-20.33.33:200][418]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Footsteps.bank
+[2019.11.18-20.33.33:200][418]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Monster.bank
+[2019.11.18-20.33.33:246][418]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.18-20.33.33:246][418]LogPlayLevel: [PlayLevel] Compiling GrassActor before play...
+[2019.11.18-20.33.33:524][418]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2019.11.18-20.33.33:524][418]LogPlayLevel: PlayLevel: Blueprint regeneration took 278 ms (1 blueprints)
+[2019.11.18-20.33.33:525][418]PIE: New page: PIE session: Untitled_1 (Nov 18, 2019, 10:33:33 AM)
+[2019.11.18-20.33.33:526][418]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.11.18-20.33.33:527][418]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.11.18-20.33.33:531][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003348s)
+[2019.11.18-20.33.33:532][418]LogAIModule: Creating AISystem for world Untitled_1
+[2019.11.18-20.33.33:532][418]LogPlayLevel: PIE: World Init took: (0.001375s)
+[2019.11.18-20.33.33:532][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005045s)
+[2019.11.18-20.33.33:582][418]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.11.18-20.33.33:656][418]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.18-20.33.33:669][418]LogInit: FAudioDevice initialized.
+[2019.11.18-20.33.33:678][418]LogLoad: Game class is 'GameModeBase'
+[2019.11.18-20.33.33:680][418]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.11.18-15.33.33
+[2019.11.18-20.33.33:680][418]LogWorld: Bringing up level for play took: 0.000766
+[2019.11.18-20.33.33:681][418]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.11.18-20.33.33:694][418]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.11.18-20.33.33:695][418]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.47
+[2019.11.18-20.33.33:695][418]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.11.18-20.33.35:012][492]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.11.18-20.33.35:095][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-20.33.35:096][492]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2019.11.18-20.33.35:097][492]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-20.33.35:106][492]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-20.33.35:107][492]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.11.18-20.33.35:165][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-20.33.35:201][492]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2019.11.18-20.33.35:230][493]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.11.18-20.33.39:987][793]LogAIModule: Creating AISystem for world HorseshoeIsland
+[2019.11.18-20.33.41:942][793]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/HorseshoeIsland.HorseshoeIsland
+[2019.11.18-20.33.42:109][793]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2019.11.18-20.33.43:792][793]LogSlate: Window 'Save Content' being destroyed
+[2019.11.18-20.33.43:798][793]Cmd: MAP LOAD FILE="../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/Levels/HorseshoeIsland.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.18-20.33.43:800][793]LightingResults: New page: Lighting Build
+[2019.11.18-20.33.43:801][793]LoadErrors: New page: Loading map: HorseshoeIsland.umap
+[2019.11.18-20.33.43:801][793]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-20.33.43:802][793]MapCheck: New page: Map Check
+[2019.11.18-20.33.43:802][793]LightingResults: New page: Lighting Build
+[2019.11.18-20.33.43:856][793]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2019.11.18-20.33.46:716][793]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.18-20.33.46:717][793]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=0.000 Z=-320.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2019.11.18-20.33.47:494][793]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2019.11.18-20.33.47:525][793]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.18-20.33.47:526][793]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.355ms to complete.
+[2019.11.18-20.33.47:526][793]LogFileHelpers: Loading map 'HorseshoeIsland' took 3.729
+[2019.11.18-20.33.49:440][940]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-20.33.49:471][940]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-20.33.49:495][940]LogFMOD: Creating runtime Studio System
+[2019.11.18-20.33.49:501][940]LogFMOD: Default sample rate = 48000
+[2019.11.18-20.33.49:502][940]LogFMOD: System sample rate = 48000
+[2019.11.18-20.33.49:502][940]LogFMOD: Matching system sample rate 48000
+[2019.11.18-20.33.49:518][940]LogFMOD: Loading Banks
+[2019.11.18-20.33.49:518][940]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Ambiance.bank
+[2019.11.18-20.33.49:518][940]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Footsteps.bank
+[2019.11.18-20.33.49:518][940]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Monster.bank
+[2019.11.18-20.33.49:556][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-20.33.49:556][940]PIE: New page: PIE session: HorseshoeIsland (Nov 18, 2019, 10:33:49 AM)
+[2019.11.18-20.33.49:556][940]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HorseshoeIsland
+[2019.11.18-20.33.50:018][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.462952s)
+[2019.11.18-20.33.50:019][940]LogAIModule: Creating AISystem for world HorseshoeIsland
+[2019.11.18-20.33.50:020][940]LogPlayLevel: PIE: World Init took: (0.001387s)
+[2019.11.18-20.33.50:020][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HorseshoeIsland.HorseshoeIsland to /Game/Levels/UEDPIE_0_HorseshoeIsland.HorseshoeIsland (0.465139s)
+[2019.11.18-20.33.50:078][940]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2019.11.18-20.33.50:150][940]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.18-20.33.50:162][940]LogInit: FAudioDevice initialized.
+[2019.11.18-20.33.50:170][940]LogLoad: Game class is 'GameModeBase'
+[2019.11.18-20.33.50:307][940]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HorseshoeIsland.HorseshoeIsland up for play (max tick rate 0) at 2019.11.18-15.33.50
+[2019.11.18-20.33.50:329][940]LogWorld: Bringing up level for play took: 0.157786
+[2019.11.18-20.33.50:329][940]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.11.18-20.33.50:331][940]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.18-20.33.50:338][940]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_HorseshoeIsland 1.113
+[2019.11.18-20.33.50:338][940]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-20.33.55:551][189]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-20.33.55:656][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-20.33.55:656][189]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HorseshoeIsland
+[2019.11.18-20.33.55:659][189]LogWorld: UWorld::CleanupWorld for HorseshoeIsland, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-20.33.55:688][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-20.33.55:688][189]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-20.33.55:753][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-20.33.55:801][189]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2019.11.18-20.33.55:831][190]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.11.18-20.33.56:445][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-20.34.00:747][699]BlueprintLog: New page: Compile Twig
+[2019.11.18-20.34.02:030][699]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2019.11.18-20.34.05:371][844]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-20.34.05:390][844]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-20.34.05:416][844]LogFMOD: Creating runtime Studio System
+[2019.11.18-20.34.05:422][844]LogFMOD: Default sample rate = 48000
+[2019.11.18-20.34.05:422][844]LogFMOD: System sample rate = 48000
+[2019.11.18-20.34.05:422][844]LogFMOD: Matching system sample rate 48000
+[2019.11.18-20.34.05:439][844]LogFMOD: Loading Banks
+[2019.11.18-20.34.05:439][844]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Ambiance.bank
+[2019.11.18-20.34.05:439][844]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Footsteps.bank
+[2019.11.18-20.34.05:439][844]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Monster.bank
+[2019.11.18-20.34.05:478][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-20.34.05:478][844]PIE: New page: PIE session: HorseshoeIsland (Nov 18, 2019, 10:34:05 AM)
+[2019.11.18-20.34.05:478][844]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HorseshoeIsland
+[2019.11.18-20.34.05:950][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.472714s)
+[2019.11.18-20.34.05:951][844]LogAIModule: Creating AISystem for world HorseshoeIsland
+[2019.11.18-20.34.05:951][844]LogPlayLevel: PIE: World Init took: (0.001231s)
+[2019.11.18-20.34.05:951][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HorseshoeIsland.HorseshoeIsland to /Game/Levels/UEDPIE_0_HorseshoeIsland.HorseshoeIsland (0.474463s)
+[2019.11.18-20.34.06:024][844]LogUObjectHash: Compacting FUObjectHashTables data took   7.07ms
+[2019.11.18-20.34.06:096][844]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.18-20.34.06:107][844]LogInit: FAudioDevice initialized.
+[2019.11.18-20.34.06:116][844]LogLoad: Game class is 'GameModeBase'
+[2019.11.18-20.34.06:247][844]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HorseshoeIsland.HorseshoeIsland up for play (max tick rate 0) at 2019.11.18-15.34.06
+[2019.11.18-20.34.06:267][844]LogWorld: Bringing up level for play took: 0.150855
+[2019.11.18-20.34.06:268][844]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.11.18-20.34.06:269][844]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.18-20.34.06:275][844]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_HorseshoeIsland 1.05
+[2019.11.18-20.34.06:275][844]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-20.34.10:255][ 37]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-20.34.10:357][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-20.34.10:357][ 37]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HorseshoeIsland
+[2019.11.18-20.34.10:359][ 37]LogWorld: UWorld::CleanupWorld for HorseshoeIsland, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-20.34.10:392][ 37]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-20.34.10:392][ 37]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-20.34.10:460][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-20.34.10:507][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2019.11.18-20.34.10:543][ 38]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.11.18-20.34.11:268][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-20.34.38:105][255]BlueprintLog: New page: Compile Twig
+[2019.11.18-20.34.39:429][255]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2019.11.18-20.38.00:427][177]LogWindows: LaunchFileInExternalEditor f:\jk\workspace\2.0_ue4.23_win64\integrations\ue4\temp\fmodstudio\hostproject\plugins\fmodstudio\source\fmodstudio\private\fmodblueprintstatics.cpp 
+[2019.11.18-20.38.00:433][177]LogWindows: Launch application code for f:\jk\workspace\2.0_ue4.23_win64\integrations\ue4\temp\fmodstudio\hostproject\plugins\fmodstudio\source\fmodstudio\private\fmodblueprintstatics.cpp : 5
+[2019.11.18-20.38.00:433][177]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.11.18-20.38.00:439][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:439][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:439][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:439][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:440][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:440][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:440][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:440][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:440][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:440][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:440][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:440][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:441][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:441][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:441][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:441][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:441][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:441][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:441][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:441][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:442][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:442][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:442][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:442][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:442][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:442][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:442][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:442][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:443][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:443][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:443][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:443][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:443][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:443][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:443][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:443][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:443][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:444][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:444][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:444][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:444][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:444][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:444][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:444][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:444][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:445][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:445][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:445][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:445][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:445][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:445][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:445][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:446][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:446][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:446][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:446][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:446][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:446][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:446][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:447][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:447][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:447][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:447][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:447][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:447][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:447][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:448][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:448][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:448][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:448][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:448][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:448][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:448][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:448][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:449][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:449][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:449][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:449][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:449][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:449][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:449][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:450][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:450][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:450][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:450][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:450][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:450][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:450][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:450][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:451][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:451][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:451][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:451][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:451][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:451][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:451][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:451][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:451][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:452][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:452][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:452][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:456][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:456][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:456][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:456][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:472][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:472][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:490][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:492][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:493][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:493][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:493][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:497][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:498][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:498][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:498][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:498][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:499][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:517][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:520][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:526][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:527][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:529][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:546][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:599][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:601][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:610][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:610][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:612][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:613][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:618][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:618][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:618][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:619][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:619][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:619][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:619][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:619][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:619][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:619][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:619][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:620][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:620][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:620][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:620][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:620][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:620][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:620][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:620][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:621][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:621][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:621][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:621][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:621][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:621][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:621][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:621][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:621][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:622][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:622][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:622][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:622][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:622][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:622][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:622][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:622][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:623][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:623][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:623][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:623][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:623][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:623][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:623][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:623][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:624][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:624][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:624][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:624][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:624][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:624][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:624][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:625][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:625][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:625][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:625][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:625][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:625][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:625][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:625][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:626][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:626][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:626][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:626][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:626][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:626][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:626][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:626][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:627][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:627][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:627][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:627][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:627][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:627][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:627][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:627][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:628][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:628][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:628][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:628][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:628][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:628][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:628][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:629][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:629][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:629][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:629][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:629][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:629][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:629][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:629][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:630][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:630][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:630][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:630][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:630][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:630][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:630][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:630][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:631][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:631][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:631][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:634][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:635][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:635][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:635][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:650][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:650][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:668][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:670][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:671][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:671][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:671][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:675][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:676][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:676][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:676][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:676][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:677][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:695][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:698][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:704][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:705][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:707][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:724][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:779][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:781][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:790][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:791][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:792][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.38.00:793][177]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.18-20.42.35:330][840]LogEditorTransaction: Undo Rename Node
+[2019.11.18-20.42.36:949][840]LogEditorTransaction: Undo Delete current selection
+[2019.11.18-20.42.38:618][840]LogEditorTransaction: Undo Delete current selection
+[2019.11.18-20.42.40:273][840]LogEditorTransaction: Undo Move Node
+[2019.11.18-20.42.42:009][840]LogEditorTransaction: Undo Add Node
+[2019.11.18-20.42.43:805][840]LogEditorTransaction: Undo Change Number Pin Value
+[2019.11.18-20.42.45:600][840]LogEditorTransaction: Undo Move Node
+[2019.11.18-20.42.47:396][840]LogEditorTransaction: Undo Add Node
+[2019.11.18-20.42.49:196][840]LogEditorTransaction: Undo Resize Node
+[2019.11.18-20.42.51:005][840]LogEditorTransaction: Undo Move Node
+[2019.11.18-20.42.52:779][840]LogEditorTransaction: Undo Move Node
+[2019.11.18-20.42.54:577][840]LogEditorTransaction: Undo Move Node
+[2019.11.18-20.42.56:388][840]LogEditorTransaction: Undo Add Node
+[2019.11.18-20.42.58:227][840]LogEditorTransaction: Undo Add Node
+[2019.11.18-20.43.00:000][840]LogEditorTransaction: Undo Move Node
+[2019.11.18-20.43.01:805][840]LogEditorTransaction: Undo Move Nodes
+[2019.11.18-20.43.03:573][840]LogEditorTransaction: Undo Move Nodes
+[2019.11.18-20.43.05:372][840]LogEditorTransaction: Undo Create Pin Link
+[2019.11.18-20.43.07:145][840]LogEditorTransaction: Undo Create Pin Link
+[2019.11.18-20.43.08:905][840]LogEditorTransaction: Undo Move Nodes
+[2019.11.18-20.43.10:675][840]LogEditorTransaction: Undo Move Nodes
+[2019.11.18-20.43.12:483][840]LogEditorTransaction: Undo Add Node
+[2019.11.18-20.43.14:257][840]LogEditorTransaction: Undo Delete current selection
+[2019.11.18-20.43.16:048][840]LogEditorTransaction: Undo Move Node
+[2019.11.18-20.43.17:805][840]LogEditorTransaction: Undo Change Number Pin Value
+[2019.11.18-20.43.25:601][840]LogEditorTransaction: Undo Create Pin Link
+[2019.11.18-20.43.26:412][840]LogEditorTransaction: Undo Break Pin Link
+[2019.11.18-20.43.48:176][922]BlueprintLog: New page: Compile Twig
+[2019.11.18-20.43.51:357][922]LogUObjectHash: Compacting FUObjectHashTables data took  10.37ms
+[2019.11.18-20.43.59:047][659]LogEditorTransaction: Undo Change Number Pin Value
+[2019.11.18-20.44.16:503][645]BlueprintLog: New page: Compile Twig
+[2019.11.18-20.44.17:939][645]LogUObjectHash: Compacting FUObjectHashTables data took   7.54ms
+[2019.11.18-20.45.50:581][550]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2019.11.18-20.45.53:476][550]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/HorseshoeIsland_Auto2D2A80F744861AE6F3815B58523DDA2EC.tmp' to '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Autosaves/Game/Levels/HorseshoeIsland_Auto2.umap'
+[2019.11.18-20.45.53:483][550]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/HorseshoeIsland' took 2.972
+[2019.11.18-20.45.53:483][550]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.972
+[2019.11.18-20.45.53:487][550]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/GrassActor] ([1] browsable assets)...
+[2019.11.18-20.45.53:517][550]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/GrassActor.GrassActor]
+[2019.11.18-20.45.53:517][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/GrassActor]
+[2019.11.18-20.45.53:562][550]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/GrassActor_Auto29ED408D342699A684D7F6CAABBC25CD3.tmp' to '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Autosaves/Game/BluePrints/GrassActor_Auto2.uasset'
+[2019.11.18-20.45.53:563][550]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Twig] ([1] browsable assets)...
+[2019.11.18-20.45.53:596][550]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Twig.Twig]
+[2019.11.18-20.45.53:596][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Twig]
+[2019.11.18-20.45.53:647][550]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Twig_Auto2DFD998C44FC099EBA4EB05A6E1DFF0E6.tmp' to '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Autosaves/Game/BluePrints/Twig_Auto2.uasset'
+[2019.11.18-20.45.53:649][550]LogFileHelpers: Auto-saving content packages took 0.162
+[2019.11.18-21.38.47:644][ 77]BlueprintLog: New page: Compile GrassActor
+[2019.11.18-21.38.50:454][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   6.82ms
+[2019.11.18-21.39.24:082][503]LogUObjectHash: Compacting FUObjectHashTables data took   7.83ms
+[2019.11.18-21.39.26:955][503]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/HorseshoeIsland_Auto336FF1EBE4E021B521763A382AE857076.tmp' to '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Autosaves/Game/Levels/HorseshoeIsland_Auto3.umap'
+[2019.11.18-21.39.26:962][503]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/HorseshoeIsland' took 2.973
+[2019.11.18-21.39.26:962][503]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.973
+[2019.11.18-21.41.42:365][822]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/Player.Player
+[2019.11.18-21.43.02:099][520]BlueprintLog: New page: Compile Player
+[2019.11.18-21.43.02:601][520]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2019.11.18-21.49.27:324][962]LogUObjectHash: Compacting FUObjectHashTables data took   8.65ms
+[2019.11.18-21.49.30:241][962]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/HorseshoeIsland_Auto4D36555224414A70614B18390B691D6B5.tmp' to '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Autosaves/Game/Levels/HorseshoeIsland_Auto4.umap'
+[2019.11.18-21.49.30:247][962]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/HorseshoeIsland' took 3.042
+[2019.11.18-21.49.30:247][962]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.042
+[2019.11.18-21.49.30:251][962]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/GrassActor] ([1] browsable assets)...
+[2019.11.18-21.49.30:282][962]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/GrassActor.GrassActor]
+[2019.11.18-21.49.30:282][962]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/GrassActor]
+[2019.11.18-21.49.30:327][962]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/GrassActor_Auto433CF70844B37E160D543B5894847B2D8.tmp' to '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Autosaves/Game/BluePrints/GrassActor_Auto4.uasset'
+[2019.11.18-21.49.30:328][962]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Player] ([1] browsable assets)...
+[2019.11.18-21.49.30:363][962]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Player.Player]
+[2019.11.18-21.49.30:363][962]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Player]
+[2019.11.18-21.49.30:469][962]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Player_Auto4A2AAAF9048E950DBC35F92BEB41937FA.tmp' to '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Autosaves/Game/BluePrints/Player_Auto4.uasset'
+[2019.11.18-21.49.30:471][962]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Twig] ([1] browsable assets)...
+[2019.11.18-21.49.30:510][962]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Twig.Twig]
+[2019.11.18-21.49.30:510][962]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Twig]
+[2019.11.18-21.49.30:560][962]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Twig_Auto47CFFD1C0491275BED02BF8B7D900295E.tmp' to '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Autosaves/Game/BluePrints/Twig_Auto4.uasset'
+[2019.11.18-21.49.30:561][962]LogFileHelpers: Auto-saving content packages took 0.311
+[2019.11.18-21.55.45:313][123]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-21.55.45:332][123]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-21.55.45:366][123]LogFMOD: Creating runtime Studio System
+[2019.11.18-21.55.45:373][123]LogFMOD: Default sample rate = 48000
+[2019.11.18-21.55.45:373][123]LogFMOD: System sample rate = 48000
+[2019.11.18-21.55.45:373][123]LogFMOD: Matching system sample rate 48000
+[2019.11.18-21.55.45:390][123]LogFMOD: Loading Banks
+[2019.11.18-21.55.45:390][123]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Ambiance.bank
+[2019.11.18-21.55.45:390][123]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Footsteps.bank
+[2019.11.18-21.55.45:390][123]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Monster.bank
+[2019.11.18-21.55.45:436][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-21.55.45:436][123]PIE: New page: PIE session: HorseshoeIsland (Nov 18, 2019, 11:55:45 AM)
+[2019.11.18-21.55.45:436][123]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HorseshoeIsland
+[2019.11.18-21.55.45:888][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.451359s)
+[2019.11.18-21.55.45:889][123]LogAIModule: Creating AISystem for world HorseshoeIsland
+[2019.11.18-21.55.45:889][123]LogPlayLevel: PIE: World Init took: (0.001312s)
+[2019.11.18-21.55.45:889][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HorseshoeIsland.HorseshoeIsland to /Game/Levels/UEDPIE_0_HorseshoeIsland.HorseshoeIsland (0.453100s)
+[2019.11.18-21.55.45:945][123]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2019.11.18-21.55.46:016][123]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.18-21.55.46:028][123]LogInit: FAudioDevice initialized.
+[2019.11.18-21.55.46:035][123]LogLoad: Game class is 'GameModeBase'
+[2019.11.18-21.55.46:183][123]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HorseshoeIsland.HorseshoeIsland up for play (max tick rate 0) at 2019.11.18-16.55.46
+[2019.11.18-21.55.46:222][123]LogWorld: Bringing up level for play took: 0.186640
+[2019.11.18-21.55.46:222][123]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.11.18-21.55.46:224][123]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.18-21.55.46:230][123]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_HorseshoeIsland 1.005
+[2019.11.18-21.55.46:231][123]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-21.56.00:745][845]LogNet: Browse: /Game/Levels/HorseshoeIsland
+[2019.11.18-21.56.00:746][845]LogLoad: LoadMap: /Game/Levels/HorseshoeIsland
+[2019.11.18-21.56.00:746][845]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HorseshoeIsland
+[2019.11.18-21.56.00:749][845]LogWorld: UWorld::CleanupWorld for HorseshoeIsland, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-21.56.00:874][845]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2019.11.18-21.56.00:875][845]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HorseshoeIsland
+[2019.11.18-21.56.01:333][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.458472s)
+[2019.11.18-21.56.01:334][845]LogAIModule: Creating AISystem for world HorseshoeIsland
+[2019.11.18-21.56.01:335][845]LogPlayLevel: PIE: World Init took: (0.001217s)
+[2019.11.18-21.56.01:335][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HorseshoeIsland.HorseshoeIsland to /Game/Levels/UEDPIE_0_HorseshoeIsland.HorseshoeIsland (0.460144s)
+[2019.11.18-21.56.01:335][845]LogLoad: Game class is 'GameModeBase'
+[2019.11.18-21.56.01:462][845]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HorseshoeIsland.HorseshoeIsland up for play (max tick rate 0) at 2019.11.18-16.56.01
+[2019.11.18-21.56.01:481][845]LogWorld: Bringing up level for play took: 0.145185
+[2019.11.18-21.56.01:481][845]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.18-21.56.01:487][845]LogLoad: Took 0.740822 seconds to LoadMap(/Game/Levels/UEDPIE_0_HorseshoeIsland)
+[2019.11.18-21.56.02:034][870]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-21.56.02:127][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-21.56.02:127][870]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HorseshoeIsland
+[2019.11.18-21.56.02:130][870]LogWorld: UWorld::CleanupWorld for HorseshoeIsland, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-21.56.02:156][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-21.56.02:157][870]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-21.56.02:216][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-21.56.02:266][870]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2019.11.18-21.56.02:301][871]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.11.18-21.56.03:430][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-22.19.50:262][364]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2019.11.18-22.19.50:263][364]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/HorseshoeIsland' took 0.056
+[2019.11.18-22.19.50:265][364]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Player] ([1] browsable assets)...
+[2019.11.18-22.19.50:303][364]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Player.Player]
+[2019.11.18-22.19.50:303][364]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Player]
+[2019.11.18-22.19.50:416][364]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Player_Auto5998A08BE4DB0900D9693DCA65AD83A08.tmp' to '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Autosaves/Game/BluePrints/Player_Auto5.uasset'
+[2019.11.18-22.19.50:418][364]LogFileHelpers: Auto-saving content packages took 0.153
+[2019.11.18-22.20.12:489][865]BlueprintLog: New page: Compile Player
+[2019.11.18-22.20.13:003][865]LogUObjectHash: Compacting FUObjectHashTables data took   6.74ms
+[2019.11.18-22.20.21:142][160]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-22.20.21:206][160]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-22.20.21:238][160]LogFMOD: Creating runtime Studio System
+[2019.11.18-22.20.21:245][160]LogFMOD: Default sample rate = 48000
+[2019.11.18-22.20.21:245][160]LogFMOD: System sample rate = 48000
+[2019.11.18-22.20.21:245][160]LogFMOD: Matching system sample rate 48000
+[2019.11.18-22.20.21:261][160]LogFMOD: Loading Banks
+[2019.11.18-22.20.21:262][160]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Ambiance.bank
+[2019.11.18-22.20.21:262][160]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Footsteps.bank
+[2019.11.18-22.20.21:262][160]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Monster.bank
+[2019.11.18-22.20.21:327][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-22.20.21:327][160]PIE: New page: PIE session: HorseshoeIsland (Nov 18, 2019, 12:20:21 PM)
+[2019.11.18-22.20.21:327][160]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HorseshoeIsland
+[2019.11.18-22.20.21:786][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.458783s)
+[2019.11.18-22.20.21:787][160]LogAIModule: Creating AISystem for world HorseshoeIsland
+[2019.11.18-22.20.21:787][160]LogPlayLevel: PIE: World Init took: (0.001398s)
+[2019.11.18-22.20.21:788][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HorseshoeIsland.HorseshoeIsland to /Game/Levels/UEDPIE_0_HorseshoeIsland.HorseshoeIsland (0.460740s)
+[2019.11.18-22.20.21:901][160]LogUObjectHash: Compacting FUObjectHashTables data took   8.73ms
+[2019.11.18-22.20.21:973][160]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.18-22.20.21:985][160]LogInit: FAudioDevice initialized.
+[2019.11.18-22.20.21:991][160]LogLoad: Game class is 'GameModeBase'
+[2019.11.18-22.20.22:123][160]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HorseshoeIsland.HorseshoeIsland up for play (max tick rate 0) at 2019.11.18-17.20.22
+[2019.11.18-22.20.22:141][160]LogWorld: Bringing up level for play took: 0.149676
+[2019.11.18-22.20.22:141][160]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.11.18-22.20.22:143][160]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.18-22.20.22:148][160]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_HorseshoeIsland 0.923
+[2019.11.18-22.20.22:149][160]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-22.21.10:042][682]LogBlueprintUserMessages: [ItemPickupTomb] items.
+[2019.11.18-22.21.10:042][682]LogBlueprintUserMessages: [ItemPickupTomb] 1
+[2019.11.18-22.21.10:042][682]LogBlueprintUserMessages: [ItemPickupTomb] You Have
+[2019.11.18-22.21.20:566][220]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-22.21.20:662][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-22.21.20:662][220]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HorseshoeIsland
+[2019.11.18-22.21.20:664][220]LogWorld: UWorld::CleanupWorld for HorseshoeIsland, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-22.21.20:699][220]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-22.21.20:699][220]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-22.21.20:761][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-22.21.20:810][220]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2019.11.18-22.21.20:850][221]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.11.18-22.21.21:389][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-22.21.25:785][744]BlueprintLog: New page: Compile Player
+[2019.11.18-22.21.26:274][744]LogUObjectHash: Compacting FUObjectHashTables data took   6.74ms
+[2019.11.18-22.21.34:636][920]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-22.21.34:654][920]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-22.21.34:692][920]LogFMOD: Creating runtime Studio System
+[2019.11.18-22.21.34:699][920]LogFMOD: Default sample rate = 48000
+[2019.11.18-22.21.34:699][920]LogFMOD: System sample rate = 48000
+[2019.11.18-22.21.34:699][920]LogFMOD: Matching system sample rate 48000
+[2019.11.18-22.21.34:717][920]LogFMOD: Loading Banks
+[2019.11.18-22.21.34:717][920]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Ambiance.bank
+[2019.11.18-22.21.34:717][920]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Footsteps.bank
+[2019.11.18-22.21.34:717][920]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Monster.bank
+[2019.11.18-22.21.34:762][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-22.21.34:762][920]PIE: New page: PIE session: HorseshoeIsland (Nov 18, 2019, 12:21:34 PM)
+[2019.11.18-22.21.34:762][920]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HorseshoeIsland
+[2019.11.18-22.21.35:219][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.457303s)
+[2019.11.18-22.21.35:221][920]LogAIModule: Creating AISystem for world HorseshoeIsland
+[2019.11.18-22.21.35:221][920]LogPlayLevel: PIE: World Init took: (0.001295s)
+[2019.11.18-22.21.35:221][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HorseshoeIsland.HorseshoeIsland to /Game/Levels/UEDPIE_0_HorseshoeIsland.HorseshoeIsland (0.459035s)
+[2019.11.18-22.21.35:337][920]LogUObjectHash: Compacting FUObjectHashTables data took   8.57ms
+[2019.11.18-22.21.35:411][920]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.18-22.21.35:422][920]LogInit: FAudioDevice initialized.
+[2019.11.18-22.21.35:434][920]LogLoad: Game class is 'GameModeBase'
+[2019.11.18-22.21.35:565][920]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HorseshoeIsland.HorseshoeIsland up for play (max tick rate 0) at 2019.11.18-17.21.35
+[2019.11.18-22.21.35:585][920]LogWorld: Bringing up level for play took: 0.150320
+[2019.11.18-22.21.35:585][920]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.11.18-22.21.35:587][920]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.18-22.21.35:593][920]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_HorseshoeIsland 0.367
+[2019.11.18-22.21.35:593][920]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-22.21.51:681][736]LogBlueprintUserMessages: [ItemPickupTomb] items.
+[2019.11.18-22.21.51:682][736]LogBlueprintUserMessages: [ItemPickupTomb] 1
+[2019.11.18-22.21.51:682][736]LogBlueprintUserMessages: [ItemPickupTomb] You Have
+[2019.11.18-22.22.19:725][165]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-22.22.19:814][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-22.22.19:815][165]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HorseshoeIsland
+[2019.11.18-22.22.19:817][165]LogWorld: UWorld::CleanupWorld for HorseshoeIsland, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-22.22.19:853][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-22.22.19:853][165]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-22.22.19:922][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-22.22.19:965][165]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2019.11.18-22.22.20:004][166]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.11.18-22.22.20:984][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-22.22.32:441][451]BlueprintLog: New page: Compile Player
+[2019.11.18-22.22.32:955][451]LogUObjectHash: Compacting FUObjectHashTables data took   6.70ms
+[2019.11.18-22.22.40:303][668]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-22.22.40:322][668]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-22.22.40:354][668]LogFMOD: Creating runtime Studio System
+[2019.11.18-22.22.40:361][668]LogFMOD: Default sample rate = 48000
+[2019.11.18-22.22.40:361][668]LogFMOD: System sample rate = 48000
+[2019.11.18-22.22.40:361][668]LogFMOD: Matching system sample rate 48000
+[2019.11.18-22.22.40:378][668]LogFMOD: Loading Banks
+[2019.11.18-22.22.40:378][668]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Ambiance.bank
+[2019.11.18-22.22.40:378][668]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Footsteps.bank
+[2019.11.18-22.22.40:378][668]LogFMOD: Loading bank: ../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Content/FMOD/Desktop/Monster.bank
+[2019.11.18-22.22.40:424][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-22.22.40:424][668]PIE: New page: PIE session: HorseshoeIsland (Nov 18, 2019, 12:22:40 PM)
+[2019.11.18-22.22.40:424][668]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HorseshoeIsland
+[2019.11.18-22.22.40:882][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.457420s)
+[2019.11.18-22.22.40:883][668]LogAIModule: Creating AISystem for world HorseshoeIsland
+[2019.11.18-22.22.40:883][668]LogPlayLevel: PIE: World Init took: (0.001251s)
+[2019.11.18-22.22.40:883][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HorseshoeIsland.HorseshoeIsland to /Game/Levels/UEDPIE_0_HorseshoeIsland.HorseshoeIsland (0.459131s)
+[2019.11.18-22.22.40:999][668]LogUObjectHash: Compacting FUObjectHashTables data took   8.40ms
+[2019.11.18-22.22.41:070][668]LogInit: XAudio2 using 'Speakers (4- Display Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.18-22.22.41:081][668]LogInit: FAudioDevice initialized.
+[2019.11.18-22.22.41:091][668]LogLoad: Game class is 'GameModeBase'
+[2019.11.18-22.22.41:223][668]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HorseshoeIsland.HorseshoeIsland up for play (max tick rate 0) at 2019.11.18-17.22.41
+[2019.11.18-22.22.41:242][668]LogWorld: Bringing up level for play took: 0.150809
+[2019.11.18-22.22.41:242][668]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.11.18-22.22.41:244][668]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.18-22.22.41:249][668]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_HorseshoeIsland 0.024
+[2019.11.18-22.22.41:249][668]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-22.22.51:789][209]LogBlueprintUserMessages: [ItemPickupTomb] items.
+[2019.11.18-22.22.51:789][209]LogBlueprintUserMessages: [ItemPickupTomb] 1
+[2019.11.18-22.22.51:789][209]LogBlueprintUserMessages: [ItemPickupTomb] You Have
+[2019.11.18-22.23.33:588][377]LogBlueprintUserMessages: [ItemPickupForest] items.
+[2019.11.18-22.23.33:588][377]LogBlueprintUserMessages: [ItemPickupForest] 2
+[2019.11.18-22.23.33:588][377]LogBlueprintUserMessages: [ItemPickupForest] You Have
+[2019.11.18-22.23.46:986][ 93]LogBlueprintUserMessages: [ItemPickupRocks] items.
+[2019.11.18-22.23.46:987][ 93]LogBlueprintUserMessages: [ItemPickupRocks] 3
+[2019.11.18-22.23.46:987][ 93]LogBlueprintUserMessages: [ItemPickupRocks] You Have
+[2019.11.18-22.24.06:265][117]LogBlueprintUserMessages: [ItemPickupWreck] items.
+[2019.11.18-22.24.06:266][117]LogBlueprintUserMessages: [ItemPickupWreck] 4
+[2019.11.18-22.24.06:266][117]LogBlueprintUserMessages: [ItemPickupWreck] You Have
+[2019.11.18-22.24.19:042][802]LogNet: Browse: /Game/Levels/HorseshoeIsland
+[2019.11.18-22.24.19:042][802]LogLoad: LoadMap: /Game/Levels/HorseshoeIsland
+[2019.11.18-22.24.19:042][802]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HorseshoeIsland
+[2019.11.18-22.24.19:045][802]LogWorld: UWorld::CleanupWorld for HorseshoeIsland, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-22.24.19:176][802]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2019.11.18-22.24.19:176][802]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HorseshoeIsland
+[2019.11.18-22.24.19:627][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.450844s)
+[2019.11.18-22.24.19:629][802]LogAIModule: Creating AISystem for world HorseshoeIsland
+[2019.11.18-22.24.19:629][802]LogPlayLevel: PIE: World Init took: (0.001362s)
+[2019.11.18-22.24.19:629][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HorseshoeIsland.HorseshoeIsland to /Game/Levels/UEDPIE_0_HorseshoeIsland.HorseshoeIsland (0.452621s)
+[2019.11.18-22.24.19:629][802]LogLoad: Game class is 'GameModeBase'
+[2019.11.18-22.24.19:760][802]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HorseshoeIsland.HorseshoeIsland up for play (max tick rate 0) at 2019.11.18-17.24.19
+[2019.11.18-22.24.19:781][802]LogWorld: Bringing up level for play took: 0.151100
+[2019.11.18-22.24.19:782][802]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.18-22.24.19:787][802]LogLoad: Took 0.745416 seconds to LoadMap(/Game/Levels/UEDPIE_0_HorseshoeIsland)
+[2019.11.18-22.28.30:719][927]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-22.28.30:813][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-22.28.30:813][927]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HorseshoeIsland
+[2019.11.18-22.28.30:815][927]LogWorld: UWorld::CleanupWorld for HorseshoeIsland, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-22.28.30:840][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-22.28.30:841][927]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland' with GeneratedClass '/Game/Levels/HorseshoeIsland.HorseshoeIsland_C' with ClassGeneratedBy '/Game/Levels/HorseshoeIsland.HorseshoeIsland:PersistentLevel.HorseshoeIsland'
+[2019.11.18-22.28.30:932][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-22.28.30:959][927]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2019.11.18-22.28.30:994][928]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.11.18-22.37.25:509][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.11.18-22.37.28:403][611]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/HorseshoeIsland_Auto6B38653D0404C5E2F61C5BEBA52909262.tmp' to '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Autosaves/Game/Levels/HorseshoeIsland_Auto6.umap'
+[2019.11.18-22.37.28:413][611]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/HorseshoeIsland' took 2.958
+[2019.11.18-22.37.28:413][611]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.958
+[2019.11.18-22.37.28:417][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/GrassActor] ([1] browsable assets)...
+[2019.11.18-22.37.28:448][611]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/GrassActor.GrassActor]
+[2019.11.18-22.37.28:448][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/GrassActor]
+[2019.11.18-22.37.28:497][611]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/GrassActor_Auto687043EEC464B76BFC4CC46A334DCBF5F.tmp' to '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Autosaves/Game/BluePrints/GrassActor_Auto6.uasset'
+[2019.11.18-22.37.28:499][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Player] ([1] browsable assets)...
+[2019.11.18-22.37.28:542][611]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Player.Player]
+[2019.11.18-22.37.28:542][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Player]
+[2019.11.18-22.37.28:657][611]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Player_Auto64EC3FB864B885EF316F2638FBB463696.tmp' to '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Autosaves/Game/BluePrints/Player_Auto6.uasset'
+[2019.11.18-22.37.28:658][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Twig] ([1] browsable assets)...
+[2019.11.18-22.37.28:693][611]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Twig.Twig]
+[2019.11.18-22.37.28:693][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Twig]
+[2019.11.18-22.37.28:747][611]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Twig_Auto6F14D1E22474A67DAD8243B9AF8A55A87.tmp' to '../../../../../../Users/Chris/Documents/GitHub/GameJam4/StealthProject/Saved/Autosaves/Game/BluePrints/Twig_Auto6.uasset'
+[2019.11.18-22.37.28:748][611]LogFileHelpers: Auto-saving content packages took 0.332
+[2019.11.18-22.42.29:985][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-22.43.34:377][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree55)
+[2019.11.18-22.43.35:836][238]LogEditorViewport: Clicking on Actor (LMB): ItemPickup_C (ItemPickup Tomb)
+[2019.11.18-22.43.39:640][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-22.43.39:769][428]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/ItemPickup.ItemPickup
+[2019.11.18-22.43.42:728][701]LogUObjectBase: Warning: Object is not registered
+[2019.11.18-22.43.42:728][701]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.18-22.43.43:972][701]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.244 s
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: 
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: Stack: 
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff850785279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff84ffa7fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff84ffb622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff84c936c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff8441c4dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff84417e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff8581fd644 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff8583ec533 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff85824922b UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff858225738 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff858219a1e UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff876204c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff8761f26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff876207340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff8761eedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff8922dca66 USER32.dll!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff8922dc582 USER32.dll!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff8762088e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff68a5b6980 UE4Editor.exe!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff68a5ca91c UE4Editor.exe!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff68a5ca9fa UE4Editor.exe!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff68a5db92c UE4Editor.exe!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff68a5de60e UE4Editor.exe!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff892497974 KERNEL32.DLL!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: [Callstack] 0x00007ff8948fa271 ntdll.dll!UnknownFunction []
+[2019.11.18-22.43.43:972][701]LogOutputDevice: Error: 
+[2019.11.18-22.43.43:982][701]LogStats:                SubmitErrorReport -  0.000 s
+[2019.11.18-22.43.44:450][701]LogFMOD: Warning: f:\jk\workspace\2.0_UE4.23_Win64\core_api\platforms\win\src\fmod_output_wasapi.cpp(549) - Starvation detected in WASAPI output buffer!
+
+[2019.11.18-22.43.44:450][701]LogFMOD: Warning: f:\jk\workspace\2.0_UE4.23_Win64\core_api\platforms\win\src\fmod_output_wasapi.cpp(549) - Starvation detected in WASAPI output buffer!
+
