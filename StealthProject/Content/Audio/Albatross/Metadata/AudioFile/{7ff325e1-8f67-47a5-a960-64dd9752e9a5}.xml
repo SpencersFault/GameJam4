@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.00.00">
-	<object class="AudioFile" id="{82fe1a36-f39e-43df-a45e-234f6be2a430}">
-		<property name="assetPath" />
-		<property name="isStreaming">
-			<value>true</value>
+	<object class="AudioFile" id="{7ff325e1-8f67-47a5-a960-64dd9752e9a5}">
+		<property name="assetPath">
+			<value>418866__name__heartbeat-loop.wav</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>48</value>
+			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<property name="length">
-			<value>313.416</value>
+			<value>1</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{721cf8ab-9533-4059-84e0-e4f8f3fde5f2}</destination>
