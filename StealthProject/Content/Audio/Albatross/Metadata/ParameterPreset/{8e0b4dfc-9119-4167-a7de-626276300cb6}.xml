@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{8e0b4dfc-9119-4167-a7de-626276300cb6}">
+		<property name="name">
+			<value>HeartbeatTime</value>
+		</property>
+		<relationship name="folder">
+			<destination>{26f816b9-c5ce-4217-a062-5c88390cd9c6}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{60f638ca-6a7e-41d8-86d0-3939b253426a}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{60f638ca-6a7e-41d8-86d0-3939b253426a}">
+		<property name="maximum">
+			<value>5</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
