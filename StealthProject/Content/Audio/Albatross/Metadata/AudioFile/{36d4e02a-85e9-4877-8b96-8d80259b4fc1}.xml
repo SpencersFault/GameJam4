@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{36d4e02a-85e9-4877-8b96-8d80259b4fc1}">
+		<property name="assetPath">
+			<value>zapsplat_foley_small_stone_drop_forest_floor_003_41601.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.52800000000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{721cf8ab-9533-4059-84e0-e4f8f3fde5f2}</destination>
+		</relationship>
+	</object>
+</objects>
